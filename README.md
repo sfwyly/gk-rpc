@@ -498,5 +498,10 @@ public class RemoteInvoker implements InvocationHandler{
 }
 
 ```
->> 上述代码需要关注invoke()方法中对代理方法的参数进行存储封装到Request对象并且最终序列化传递到Server。
-> 至此本项目个关键模块实现与执行流程介绍完毕，下一步将更新 线程池
+>> 上述代码需要关注invoke()方法中对代理方法的参数进行存储封装到Request对象并且最终序列化传递到Server。至此本项目个关键模块实现与执行流程介绍完毕。
+  
+# 下一步 
+> * 线程池
+> * 注册中心
+> * 数据安全传输
+> * 流行框架集成
