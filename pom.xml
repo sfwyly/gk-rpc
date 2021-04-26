@@ -21,7 +21,7 @@
     <properties>
         <java-version>1.8</java-version>
 
-        <commons.version>2.2</commons.version>
+        <commons.version>2.7</commons.version>
         <jetty.version>9.2.10.v20150310</jetty.version>
         <fastjson.version>1.2.44</fastjson.version>
         <junit-version>4.12</junit-version>
